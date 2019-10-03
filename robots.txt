@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sootheiroh.lesehuette.de/sitemap.xml
